@@ -2,7 +2,7 @@
 
 i just really like building things native windows tools, full-stack web apps, ai stuff.
 
-my whole dev setup is fully custom — neovim, wezterm, glazewm, all vim keys, all [on github](https://github.com/mueezejaz/window_setup_config)
+my whole dev setup is fully custom — neovim, wezterm, glazewm, all vim keys, fully keyboard centric and blazingly fast, all [on github](https://github.com/mueezejaz/window_setup_config)
 
 some stuff i've made:
 
