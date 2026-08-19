@@ -1,14 +1,15 @@
 # mueezejaz
 
-i just really like building things native windows tools, full-stack web apps, ai stuff.
+building things native windows tools, full-stack web apps, ai stuff.
 
-my whole dev setup is fully custom — neovim, wezterm, glazewm, all vim keys, fully keyboard centric and blazingly fast, all [on github](https://github.com/mueezejaz/window_setup_config)
+my dev setup. fully keyboard with vim keybindings centric and blazingly fast, all [on github](https://github.com/mueezejaz/window_setup_config)
 
 some stuff i've made:
 
-- [findfast pluss](https://github.com/mueezejaz/findfast) a native windows search tool, actually got it on the [microsoft store](https://apps.microsoft.com/store/detail/9MZFB26S5PRQ?cid=DevShareMCLPCS)
-- [watch with me](https://github.com/mueezejaz/watchwithme) watch youtube videos in sync with friends, has voice chat built in
-- [gpa calculator](https://github.com/mueezejaz/uaf_gpa_cal) made it for my uni because the official one was painful to use . also hooked it up to my terminal so i can check my gpa right from the command line
-- [lumina](https://github.com/mueezejaz/aiVideoGenerator) current project, an ai that turns a text prompt into a fully narrated animated video
+- [FindFast Plus](https://github.com/mueezejaz/findfast) — a native Windows search tool. Actually got it published on the [Microsoft Store](https://apps.microsoft.com/store/detail/9MZFB26S5PRQ?cid=DevShareMCLPCS).
+- [Watch With Me](https://github.com/mueezejaz/watchwithme) — watch YouTube videos in sync with friends, with built-in voice chat.
+- [GPA Calculator](https://github.com/mueezejaz/uaf_gpa_cal) — built it for my uni because the official calculator was painful to use. Also hooked it up to my terminal so I can check my GPA right from the command line.
+- [Lumina](https://github.com/mueezejaz/aiVideoGenerator) — my current project: an AI that turns a text prompt into a fully narrated, animated video.
+- [VimTerm](https://github.com/mueezejaz/vimterm) — a Vim-centric terminal for Windows, built around keyboard-driven navigation and Vim keybindings.
 
 tech i use most: c++, javascript, python, node.js
